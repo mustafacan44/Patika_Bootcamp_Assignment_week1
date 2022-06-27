@@ -1,0 +1,2 @@
+s1 değişkeni oluşturulduğunda "Welcome" ifadesine bir referans atanır. Diğer değişkenler oluşturulduğunda, hafızada
+"Welcome" ifadesi olduğu için JVM s2 ve s3 değişkenine aynı referansı atar. Sonuç olarak sadece 1 adet obje oluşur.
